@@ -1,0 +1,74 @@
+
+#Ab{
+    background-color: black;
+    color: white;
+
+}
+#Ac{
+    background-color: saddlebrown;
+    color: white;
+
+}
+#Ad{
+    background-color: red;
+    color: white;
+
+}
+#Ae{
+    background-color: orangered;
+    color: white;
+
+}
+#Af{
+    background-color: yellow;
+    color: black;
+
+}
+#Ag{
+    background-color: green;
+    color: white;
+
+}
+#Ah{
+    background-color: blue;
+    color: white;
+
+}
+#Ai{
+    background-color: violet;
+    color: white;
+
+}
+#Aj{
+    background-color: gray;
+    color: white;
+
+}
+#Aek{
+    background-color: white;
+    color: black;
+
+}
+#ADD:hover{
+    background-color: gold;
+    color: black;
+
+}
+#APP{
+    background-color: silver;
+    color: black;
+}
+
+.button :hover{
+    background-color: red;
+    transition: 1s;
+    
+}
+
+.button :hover{
+    background-color: red;
+    transition: -1s;
+    
+}
+
+
